@@ -129,6 +129,9 @@ Debug/
 Release/
 ARM/
 
+# Allow files in anna's lib folder brought from Aria
+!/External/lib/
+
 # Allow files in our /Build folder
 !/Build
 !/Casablanca
